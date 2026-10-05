@@ -1,0 +1,14 @@
+[
+  {
+    "id": "2026-10-05-手机为了挂机App天天耗电发热？NAS上跑个Android，签到自动化一条命令搞",
+    "title": "手机为了挂机App天天耗电发热？NAS上跑个Android，签到自动化一条命令搞定",
+    "author": "飘落的数码折腾日记",
+    "publishDate": "2026/9/3 20:00:00",
+    "createdAt": "2026-10-05T10:05:01.595Z",
+    "summary": "我的手机里有个 App，每天晚上都要签到领积分。以前都是睡前点一下，有时候忘了就断签，第二天看着提醒心里那个难受。后来想搞个自动化脚本挂着，但手机跑脚本耗电又发热，总不能为这个专门买台手机吧？转念一想——NAS 不是 24 小时开机的吗？能不能让 NAS 帮我跑 Android App？一开始以为要在 NAS 上装 A...",
+    "path": "articles/2026-10-05-手机为了挂机App天天耗电发热？NAS上跑个Android，签到自动化一条命令搞/index.md",
+    "imagesCount": 6,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  }
+]
