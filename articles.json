@@ -26,7 +26,8 @@
     "hasHtml": true,
     "imagesCount": 5,
     "storage": "github",
-    "githubRepo": "zztap/wicht"
+    "githubRepo": "zztap/wicht",
+    "category": "科技分享"
   },
   {
     "id": "2026-10-05-牛逼，GitHub上面有人搞了个虚拟局域网，异地电脑秒变同个路由器直连。",
