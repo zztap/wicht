@@ -15,21 +15,6 @@
     "githubRepo": "zztap/wicht"
   },
   {
-    "id": "2026-10-07-微信文章",
-    "title": "微信文章",
-    "author": "微信公众号",
-    "category": "科技分享",
-    "publishDate": "2026/10/7 01:39:14",
-    "createdAt": "2026-10-07T01:39:16.597Z",
-    "summary": "未能提取到文章正文...",
-    "path": "articles/2026-10-07-微信文章/index.md",
-    "htmlPath": "articles/2026-10-07-微信文章/index.html",
-    "hasHtml": true,
-    "imagesCount": 0,
-    "storage": "github",
-    "githubRepo": "zztap/wicht"
-  },
-  {
     "id": "2026-10-06-用_rtp2httpd_转发宽带运营商_IPTV_组播",
     "title": "用 rtp2httpd 转发宽带运营商 IPTV 组播",
     "author": "白一梓",
