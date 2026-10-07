@@ -15,21 +15,6 @@
     "githubRepo": "zztap/wicht"
   },
   {
-    "id": "2026-10-06-用_rtp2httpd_转发宽带运营商_IPTV_组播",
-    "title": "用 rtp2httpd 转发宽带运营商 IPTV 组播",
-    "author": "白一梓",
-    "category": "科技分享",
-    "publishDate": "2026/10/4 20:08:48",
-    "createdAt": "2026-10-06T02:25:30.610Z",
-    "summary": "&nbsp;用 rtp2httpd 转发宽带运营商 IPTV 组播前些天发表《在安卓机顶盒中看宽带运营商 IPTV》&nbsp;时提到运营商组播代理工具用的是 udpxy，但是部分网友说使用 rtp2httpd 性能更好。所以我又实地测试了一下 rtp2httpd 这款组播转单播软件。rtp2httpd 官方文档中说其...",
-    "path": "articles/2026-10-06-用_rtp2httpd_转发宽带运营商_IPTV_组播/index.md",
-    "htmlPath": "articles/2026-10-06-用_rtp2httpd_转发宽带运营商_IPTV_组播/index.html",
-    "hasHtml": true,
-    "imagesCount": 3,
-    "storage": "github",
-    "githubRepo": "zztap/wicht"
-  },
-  {
     "id": "2026-10-05-手机为了挂机App天天耗电发热？NAS上跑个Android，签到自动化一条命令搞",
     "title": "手机为了挂机App天天耗电发热？NAS上跑个Android，签到自动化一条命令搞定",
     "author": "飘落的数码折腾日记",
