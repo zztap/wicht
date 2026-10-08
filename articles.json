@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-08-亲测有效：无需公网IP，轻松实现固定域名访问内网服务，榨干家宽带宽",
+    "title": "亲测有效：无需公网IP，轻松实现固定域名访问内网服务，榨干家宽带宽",
+    "author": "折腾小菜",
+    "category": "科技分享",
+    "publishDate": "2026/10/8 07:08:00",
+    "createdAt": "2026-10-08T02:51:39.743Z",
+    "summary": "lucky硬核功能太多了，上一篇只介绍了怎么安装，以及一些安全配置，动态域名以及SSL证书。今天我们了解下STUN穿透，无需公网IP也能榨干家庭带宽。通过webhook自动绑定CF域名解析，以便通过域名固定访问地址。特别是那些无法获取到公网IP以及不想折腾的友友们。该方案有一定的局限性，不适合APP访问的服务。此次主要...",
+    "path": "articles/2026-10-08-亲测有效：无需公网IP，轻松实现固定域名访问内网服务，榨干家宽带宽/index.md",
+    "htmlPath": "articles/2026-10-08-亲测有效：无需公网IP，轻松实现固定域名访问内网服务，榨干家宽带宽/index.html",
+    "hasHtml": true,
+    "imagesCount": 7,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  },
+  {
     "id": "2026-10-08-没有公网IP，也能远程看家里的IPTV：Cloudflare_Tunnel实现组",
     "title": "没有公网IP，也能远程看家里的IPTV：Cloudflare Tunnel实现组播转单播内网穿透",
     "author": "网络志",
