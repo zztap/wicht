@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-09-不用机顶盒也能看联通_IPTV？一套基于_rtp2httpd_的_Android",
+    "title": "不用机顶盒也能看联通 IPTV？一套基于 rtp2httpd 的 Android TV 方案分享",
+    "author": "",
+    "category": "科技分享",
+    "publishDate": "2026/10/8 16:00:00",
+    "createdAt": "2026-10-09T01:32:17.831Z",
+    "summary": "📺前言很多 IPTV 玩家折腾到最后，都会遇到一个问题：运营商送的机顶盒太封闭，自己又想用电视、投影或者 Android TV 设备直接看运营商 IPTV，到底能不能做到？最近看到恩山网友分享了一套比较有意思的方案：针对河南联通 IPTV环境，开发了一个 Android TV 客户端，不再依赖运营商原装机顶盒，而是直...",
+    "path": "articles/2026-10-09-不用机顶盒也能看联通_IPTV？一套基于_rtp2httpd_的_Android/index.md",
+    "htmlPath": "articles/2026-10-09-不用机顶盒也能看联通_IPTV？一套基于_rtp2httpd_的_Android/index.html",
+    "hasHtml": true,
+    "imagesCount": 40,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  },
+  {
     "id": "2026-10-08-亲测有效：无需公网IP，轻松实现固定域名访问内网服务，榨干家宽带宽",
     "title": "亲测有效：无需公网IP，轻松实现固定域名访问内网服务，榨干家宽带宽",
     "author": "折腾小菜",
