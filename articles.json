@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-12-把_Tailscale_当加密网线用的开源项目",
+    "title": "把 Tailscale 当加密网线用的开源项目",
+    "author": "小G",
+    "category": "日常备份",
+    "publishDate": "2026/10/9 08:17:06",
+    "createdAt": "2026-10-12T05:36:15.563Z",
+    "summary": "项目简介Tailscale 好用，但有时候你只想干一件事：两台机器之间拉一条加密通道，传个文件、转个端口、开个临时 SSH。不想登录账号，不想改路由表，更不想给机器装一整套客户端。Tailcat 把控制面整段拿掉了。一端起服务，打出一段&nbsp;tc&nbsp;开头的地址；另一端把这段地址贴进去。地址里已经带了公钥、...",
+    "path": "articles/2026-10-12-把_Tailscale_当加密网线用的开源项目/index.md",
+    "htmlPath": "articles/2026-10-12-把_Tailscale_当加密网线用的开源项目/index.html",
+    "hasHtml": true,
+    "imagesCount": 0,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  },
+  {
     "id": "2026-10-09-不用机顶盒也能看联通_IPTV？一套基于_rtp2httpd_的_Android",
     "title": "不用机顶盒也能看联通 IPTV？一套基于 rtp2httpd 的 Android TV 方案分享",
     "author": "",
