@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-16-我用_Grok_Bot_把_Mac_mini、Air_和手机连成一张网：4_台设",
+    "title": "我用 Grok Bot 把 Mac mini、Air 和手机连成一张网：4 台设备全部互通",
+    "author": "萌威",
+    "category": "科技分享",
+    "publishDate": "2026/10/12 23:32:35",
+    "createdAt": "2026-10-16T07:28:17.288Z",
+    "summary": "家里那台 Mac mini，过去一段时间一直在做些零碎的活：每天跑数据日报、记账、养号。机器常年开着，能力却大多闲置，谈不上充分利用。转机出现在把 Grok Bot 装上 Mac mini 之后。用同一个账号登录，Mac mini、MacBook Air 和手机之间真正互通了，Mac mini 也从一台后台机器，变成了...",
+    "path": "articles/2026-10-16-我用_Grok_Bot_把_Mac_mini、Air_和手机连成一张网：4_台设/index.md",
+    "htmlPath": "articles/2026-10-16-我用_Grok_Bot_把_Mac_mini、Air_和手机连成一张网：4_台设/index.html",
+    "hasHtml": true,
+    "imagesCount": 9,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  },
+  {
     "id": "2026-10-12-把_Tailscale_当加密网线用的开源项目",
     "title": "把 Tailscale 当加密网线用的开源项目",
     "author": "小G",
