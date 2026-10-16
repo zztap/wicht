@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-16-飞牛fnOS应用推荐：风扇控制，让风扇按温度转，而不是一直狂转",
+    "title": "飞牛fnOS应用推荐：风扇控制，让风扇按温度转，而不是一直狂转",
+    "author": "极有趣科技",
+    "category": "日常备份",
+    "publishDate": "2026/10/15 12:04:23",
+    "createdAt": "2026-10-16T07:34:10.491Z",
+    "summary": "风扇转快点降温，转慢点安静，主板 BIOS 给你的那套策略又总是慢半拍。飞牛fnOS 新上的&nbsp;风扇控制&nbsp;把这件事交回你手里：拿 CPU、显卡或硬盘的温度当依据，按你画的曲线自动调速，低负载安静、高负载压得住。它是什么它是一款系统工具类应用，通过 Linux 内核的 nct6775 驱动，读写主板上的...",
+    "path": "articles/2026-10-16-飞牛fnOS应用推荐：风扇控制，让风扇按温度转，而不是一直狂转/index.md",
+    "htmlPath": "articles/2026-10-16-飞牛fnOS应用推荐：风扇控制，让风扇按温度转，而不是一直狂转/index.html",
+    "hasHtml": true,
+    "imagesCount": 4,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  },
+  {
     "id": "2026-10-16-我用_Grok_Bot_把_Mac_mini、Air_和手机连成一张网：4_台设",
     "title": "我用 Grok Bot 把 Mac mini、Air 和手机连成一张网：4 台设备全部互通",
     "author": "萌威",
