@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-10-18-如何合规榨干_Muse_2核8G_虚拟机的算力？（二）",
+    "title": "如何合规榨干 Muse 2核8G 虚拟机的算力？（二）",
+    "author": "",
+    "category": "科技分享",
+    "publishDate": "2026/10/12 20:00:00",
+    "createdAt": "2026-10-18T03:58:53.898Z",
+    "summary": "如何合规榨干 Meta Muse 2核8G 虚拟机的算力与自动化应用从 100G 持久盘划分、Python 批处理数据管道，到云端定时唤醒与交互式看板全流程适用平台：&nbsp;Meta Muse (云端 Linux 独立容器)硬件配额：&nbsp;2 vCPU / 7.7 GiB 内存 / 100 GiB 持久盘实施...",
+    "path": "articles/2026-10-18-如何合规榨干_Muse_2核8G_虚拟机的算力？（二）/index.md",
+    "htmlPath": "articles/2026-10-18-如何合规榨干_Muse_2核8G_虚拟机的算力？（二）/index.html",
+    "hasHtml": true,
+    "imagesCount": 0,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  },
+  {
     "id": "2026-10-17-&quot;Muse_Token_永动机&quot;火了：真能无限白嫖？我把原理",
     "title": "&quot;Muse Token 永动机&quot;火了：真能无限白嫖？我把原理扒完了",
     "author": "赛博尝鲜局",
