@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-10-在安卓机顶盒中看宽带运营商_IPTV",
+    "title": "在安卓机顶盒中看宽带运营商 IPTV",
+    "author": "白一梓",
+    "category": "日常备份",
+    "publishDate": "2026/9/26 18:16:02",
+    "createdAt": "2026-11-10T03:22:33.535Z",
+    "summary": "在安卓机顶盒中看宽带运营商 IPTV家里办宽带时，运营商通常会一并提供 IPTV 服务。但不少人并不想使用运营商的专用机顶盒，而是希望直接在电视、电脑或平板上的 Kodi、TVBox 等播放器里观看。问题在于：运营商 IPTV 与普通网络直播使用的传输方式并不一样。这次，我在&nbsp;iptv-sources&nbs...",
+    "path": "articles/2026-11-10-在安卓机顶盒中看宽带运营商_IPTV/index.md",
+    "htmlPath": "articles/2026-11-10-在安卓机顶盒中看宽带运营商_IPTV/index.html",
+    "hasHtml": true,
+    "imagesCount": 1,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  },
+  {
     "id": "2026-10-18-如何合规榨干_Muse_2核8G_虚拟机的算力？（二）",
     "title": "如何合规榨干 Muse 2核8G 虚拟机的算力？（二）",
     "author": "",
