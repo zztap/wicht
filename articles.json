@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-23-WiFi_Calling_保号神器：高通410随身WiFi_搭开源_VoCat，",
+    "title": "WiFi Calling 保号神器：高通410随身WiFi 搭开源 VoCat，VOXI/Lebara 一键切卡 + 短信实时推 TG",
+    "author": "Today羊毛",
+    "category": "日常备份",
+    "publishDate": "2026/11/23 15:51:52",
+    "createdAt": "2026-11-23T08:01:15.302Z",
+    "summary": "玩 4G 模组棒、随身 WiFi 的人都有这个痛点：模组插在棒子里，收个验证码短信、看眼信号、切张卡，要么敲 AT 命令，要么拔卡插回手机。VoCat&nbsp;是 GitHub 上的一个开源项目，干的就是把这些事全搬进网页控制台。我正用一根高通 410 的随身 WiFi 棒子跑着它，这篇把项目本身、GitHub 上的...",
+    "path": "articles/2026-11-23-WiFi_Calling_保号神器：高通410随身WiFi_搭开源_VoCat，/index.md",
+    "htmlPath": "articles/2026-11-23-WiFi_Calling_保号神器：高通410随身WiFi_搭开源_VoCat，/index.html",
+    "hasHtml": true,
+    "imagesCount": 9,
+    "storage": "github",
+    "githubRepo": "zztap/wicht"
+  },
+  {
     "id": "2026-11-10-在安卓机顶盒中看宽带运营商_IPTV",
     "title": "在安卓机顶盒中看宽带运营商 IPTV",
     "author": "白一梓",
